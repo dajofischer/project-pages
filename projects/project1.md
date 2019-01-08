@@ -1,7 +1,7 @@
 ---
 layout: project
-title: "Project 1"
-description: "Description of Project #1"
+title: "Mass Spectrometry"
+description: "Examples of different projects I've been working on lately"
 header-img: "img/home-bg.jpg"
 category: project1
 ---

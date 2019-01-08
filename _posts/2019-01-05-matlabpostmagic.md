@@ -5,6 +5,7 @@ date:       2019-01-05
 author:     David Fischer
 tags: 		matlab
 subtitle:   Generate magic matrix and plot
+category: project1
 visualworkflow: false
 ---
 {% if page.visualworkflow == true %}

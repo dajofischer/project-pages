@@ -20,3 +20,9 @@ This is a demo that shows the sine wave
 This is a demonstration of stock data:
 
 <script src="https://demo.bokeh.org/stocks/autoload.js?bokeh-autoload-element=1000&bokeh-app-path=/stocks&bokeh-absolute-url=https://demo.bokeh.org/stocks" id="1000"></script>
+
+# Own bokeh app demonstration
+
+Mass spec data theory with random number_of_selfloops
+
+<script src="localhost:5006/Random_Background_Peak/autoload.js?bokeh-autoload-element=1000&bokeh-app-path=/5006/Random_Background_Peak&bokeh-absolute-url=localhost:5006/Random_Background_Peak" id="1000"></script>

@@ -88,8 +88,7 @@ column  | short | B | C
 > War does not decide who is *right*, only who is **left**.
 
 ## Rule
-<script src="https://demo.bokeh.org/slider/autoload.js?bokeh-autoload-element=1001&bokeh-app-path=/slider&bokeh-absolute-url=https://demo.bokeh.org/slider" id="1001"></script>
----
+<script src="https://demo.bokeh.org/sliders/autoload.js?bokeh-autoload-element=1001&bokeh-app-path=/sliders&bokeh-absolute-url=https://demo.bokeh.org/sliders" id="1001"></script>
 
 ## HTML
 

@@ -25,4 +25,4 @@ This is a demonstration of stock data:
 
 Mass spec data theory with random number_of_selfloops
 
-<script src="localhost:5006/Random_Background_Peak/autoload.js?bokeh-autoload-element=1000&bokeh-app-path=/5006/Random_Background_Peak&bokeh-absolute-url=localhost:5006/Random_Background_Peak" id="1000"></script>
+<script src="http://localhost:5006/Random_Background_Peak/autoload.js?bokeh-autoload-element=1000&bokeh-app-path=/Random_Background_Peak&bokeh-absolute-url=http://localhost:5006/Random_Background_Peak" id="1000"></script>

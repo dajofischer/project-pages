@@ -19,7 +19,9 @@ This is a demo that shows the sine wave
 
 This is a demonstration of stock data:
 
-<script src="https://demo.bokeh.org/stocks/autoload.js?bokeh-autoload-element=1000&bokeh-app-path=/stocks&bokeh-absolute-url=https://demo.bokeh.org/stocks" id="1000"></script>
+
+script src="https://radiant-garden-69872.herokuapp.com/Random_Background_Peak/autoload.js?bokeh-autoload-element=01950cc9-95e4-4022-ba6c-adeb8b2bbb83&bokeh-app-path=/Random_Background_Peak&bokeh-absolute-url=https://radiant-garden-69872.herokuapp.com/Random_Background_Peak" id="01950cc9-95e4-4022-ba6c-adeb8b2bbb83"></script>
+
 
 # Own bokeh app demonstration
 

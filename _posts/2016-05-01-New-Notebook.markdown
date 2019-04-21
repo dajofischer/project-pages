@@ -6,6 +6,6 @@ tags: 		jupyter workflows template
 subtitle:   Showcasing Jupyter Notebook Translator Layout
 category:  project1
 
-notebookfilename: Novartis
-visualworkflow: true
+notebookfilename: Novartis_final
+visualworkflow: false
 ---

@@ -1,6 +1,6 @@
 ---
 layout:     notebook
-title:      Mass Spectrometry Stories &#35;1 
+title:      Mass Spectrometry Stories &#35;1
 author:     David Fischer
 tags: 		[Bokeh, Python, Mass Spectrometry, Metabolomics]
 subtitle: Improving signal detection in mass spectrometry data
